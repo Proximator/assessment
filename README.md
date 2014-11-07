@@ -29,6 +29,8 @@ mohamed.elgabbouch@gmail.com
 ## How to execute the application as standalone jar
 java -jar GoEuroTest.jar "STRING"
 
+A csv file named : "data.csv" is generated in the same folder.
+
 
     
     
